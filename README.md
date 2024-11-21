@@ -1,7 +1,7 @@
 # Optimizing-Opportunity-Management-and-Deal-Closure-for-SimplySocial-Using-Salesforce
 
 ## Project Description:
-This project involves leveraging Salesforce tools and functionalities to improve sales operations at SimplySocial by managing opportunities, organizing contact roles, and utilizing price books, products, and quotes. The tasks simulate real-world scenarios where sales operations specialists assist account executives in efficiently progressing deals through various stages to close deals successfully.
+This project involves leveraging Salesforce tools and functionalities to improve sales operations at SimplySocial by managing opportunities, organizing contact roles, and utilizing price books, products, and quotes. The tasks simulate real world scenarios where sales operations specialists assist account executives in efficiently progressing deals through various stages to close deals successfully.
 
 ## Dataset Used
 - <a href="https://github.com/Paschal-lee/Optimizing-Opportunity-Management-and-Deal-Closure-for-SimplySocial-Using-Salesforce/blob/main/Inbound%20Leads_Data.csv">Dataset</a>
